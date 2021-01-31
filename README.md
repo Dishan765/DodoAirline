@@ -1,4 +1,4 @@
-<h1>Story</h1>
+<h1>Dodo Airline</h1>
 
 A website where users can:
 <ul>
@@ -9,7 +9,7 @@ A website where users can:
   <li>Cancel a booked flight</li>
   <li>Review a flight</li>
 </ul>
-<p>The story website was built using the PHP, JavaScript, HTML and CSS.</p>
+<p>The Dodo Airline website was built using the PHP, JavaScript, HTML and CSS.</p>
 
 <h1> What I Learned</h1>
 <ul>
