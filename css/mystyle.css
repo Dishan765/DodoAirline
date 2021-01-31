@@ -1,0 +1,53 @@
+body {
+	background-color: grey;
+	/*To change to image later*/
+}
+
+#container ul {
+	list-style: none;
+}
+
+#container ul li {
+	background-color: #577e9f;
+	width: 150px;
+	border: 1px solid white;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	float: left;
+	color: white;
+	font-size: 18px;
+}
+
+#container ul li:hover {
+	background-color: #7cc76f;
+}
+
+#container ul ul {
+	display: none;
+}
+
+#container ul li:hover > ul {
+	display: block;
+}
+
+/*center the sub navigation bars to the top navigation bars*/
+.nav-align {
+	margin: 0px;
+	padding: 0px;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+li a {
+	text-decoration: none;
+	color: white;
+}
+
+li a.active {
+	background-color: #22b5ac;
+	color: white;
+}
